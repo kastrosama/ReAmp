@@ -17,7 +17,7 @@ ReAmp is a lightweight Winamp-inspired audio player built for Android. It combin
 ## Privacy Policy
 
 ReAmp does not collect any personal information.  
-For full details, see the [Privacy Policy](https://github.com/kastrosama/ReAmp/main/PRIVACY_POLICY.md).
+For full details, see the [Privacy Policy](https://github.com/kastrosama/ReAmp/blob/main/PRIVACY_POLICY.md).
 
 ## License
 
