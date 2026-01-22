@@ -21,7 +21,7 @@ For full details, see the [Privacy Policy](https://raw.githubusercontent.com/kas
 
 ## License
 
-ReAmp is proprietary software. The source code in this repository may not be copied, modified, or redistributed without explicit permission from the author. See the [LICENSE](./LICENSE) file for full details.
+ReAmp is proprietary software. The source code in this repository may not be copied, modified, or redistributed without explicit permission from the author. See the [LICENSE](https://github.com/kast0r/reamp/blob/main/LICENSE) file for full details.
 
 ## Contributing
 
