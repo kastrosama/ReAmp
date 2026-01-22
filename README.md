@@ -1,5 +1,7 @@
 # ReAmp
 
+> **Note:** This repository is private and proprietary. The source code is not open for public use. ReAmp is actively developed by the author and is available on Google Play. Any inquiries about collaboration or licensing should be directed to the author.
+
 ReAmp is a lightweight Winamp-inspired audio player built for Android. It combines nostalgia with modern streaming features, giving you a rich and customizable listening experience.
 
 ## Features
